@@ -1,0 +1,2 @@
+Javascript - https://javascript.info/intro
+React - https://react.dev/learn#
