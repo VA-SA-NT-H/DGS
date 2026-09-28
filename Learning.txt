@@ -1,2 +1,3 @@
 Javascript - https://javascript.info/intro
 React - https://react.dev/learn#
+statement sending stacks - https://share.gemini.google/6dHmWRNRYuZ5
